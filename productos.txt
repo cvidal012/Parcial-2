@@ -1,0 +1,10 @@
+piña,fruta,2,2.0
+detergente,Aseo,5,1.5
+tomate,verduras,2,500.0
+carne de res,carnes,3,15.0
+papel higienico,aseo,4,4.5
+atun,enlatados,7,7.0
+pechuga de pollo,carnes,3,18.0
+lechuga,verdura,2,700.0
+manzana,fruta,4,1.0
+sal,condimentos,4,1.2
